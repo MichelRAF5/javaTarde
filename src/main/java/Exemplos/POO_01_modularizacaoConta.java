@@ -1,19 +1,12 @@
 package Exemplos;
 
-import java.util.Scanner;
-
-public class modularizacaoConta {
+public class POO_01_modularizacaoConta {
     public static int soma(int a, int b) {
     int soma = a + b;
     return soma;
     }
 
     public static int subt (int a, int b){
-        int subt= a-b;
-        return subt;
-    }
-
-    public  int subsub (int a, int b){
         int subt= a-b;
         return subt;
     }

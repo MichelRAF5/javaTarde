@@ -15,8 +15,6 @@ public class exercicio_09 {
             double percent=cons*0.1;
             cons+=percent;
             hora++;
-            System.out.println(cons);
-            System.out.println(percent);
         }
         System.out.printf("A energia consumida em 5 horas foi de "+cons+" watts");
         sc.close();
